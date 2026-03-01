@@ -1,5 +1,7 @@
 # Parallax Playground
 
+https://pages.ninja/parallax
+
 A small static webpage that demonstrates a simple parallax scrolling effect using only HTML and CSS.
 
 The page is intentionally lightweight: random text blocks + full-screen image sections to showcase depth while scrolling.
